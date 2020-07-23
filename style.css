@@ -99,6 +99,8 @@ p {
 }
 
 
+
+
 section {
 	border-top: 1px solid #dedede;
 	padding: 20px 0 0;
@@ -120,6 +122,15 @@ section:last-child {
 .sectionContent {
 	float: right;
 	width: 72.5%;
+}
+
+.sectionContent p a { 
+	text-decoration: none;
+}
+
+.sectionContent p a:hover { 
+	text-decoration: none;
+	color: #009ACF;
 }
 
 .sectionTitle h1 {
