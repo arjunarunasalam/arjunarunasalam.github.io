@@ -31,7 +31,7 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #cf8a05;
+	border-bottom: 2px solid #009ACF;
 	background: #ededed;
 }
 
@@ -70,7 +70,7 @@ p {
 }
 
 #contactDetails {
-	float: right;
+	float: left;
 }
 
 #contactDetails ul {
@@ -95,7 +95,7 @@ p {
 }
 
 #contactDetails ul li a:hover { 
-	color: #cf8a05;
+	color: #009ACF;
 }
 
 
@@ -126,7 +126,7 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
-	color: #cf8a05;
+	color: #009ACF;
 }
 
 .sectionContent h2 {
@@ -163,7 +163,7 @@ section:last-child {
 
 @media all and (min-width: 602px) and (max-width: 800px) {
 	#headshot {
-		display: none;
+		display: inline-block;
 	}
 	
 	.keySkills {
@@ -171,6 +171,11 @@ section:last-child {
 	-webkit-column-count:2;
 	column-count:2;
 	}
+
+	.bullet {
+    list-style-type: square;
+	}
+
 }
 
 @media all and (max-width: 601px) {
@@ -181,13 +186,22 @@ section:last-child {
 	}
 	
 	#headshot {
-		display: none;
+		display: inline-block;
 	}
 	
-	#name, #contactDetails {
+	#name {
 		float: none;
 		width: 100%;
 		text-align: center;
+		display: inline-block;
+	}
+
+	
+	#contactDetails {
+		float: none;
+		width: 100%;
+		text-align: center;
+		display: inline;
 	}
 	
 	.sectionTitle, .sectionContent {
