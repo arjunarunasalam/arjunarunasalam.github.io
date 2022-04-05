@@ -14,7 +14,7 @@ I am a 2nd year graduate student pursuing a Ph.D. in computer science at Purdue 
 
 Publications 
 ------------
-***Behind the Tube: Exploitative Monetization of Content on YouTube***
+***Behind the Tube: Exploitative Monetization of Content on YouTube*** <br>
 Andrew Chu<sup>‡</sup>,  **Arjun Arunasalam**<sup>‡</sup>, Muslum Ozgur Ozmen, and Z. Berkay Celik<br>
 Proceedings of the USENIX Security Symposium (Usenix SEC '22)<br>
 [Paper Here](https://www.usenix.org/conference/usenixsecurity22/presentation/chu)<br>
