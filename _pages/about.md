@@ -16,7 +16,7 @@ Publications
 ------------
 ***Behind the Tube: Exploitative Monetization of Content on YouTube*** <br>
 Andrew Chu<sup>‡</sup>,  **Arjun Arunasalam**<sup>‡</sup>, Muslum Ozgur Ozmen, and Z. Berkay Celik<br>
-Proceedings of the USENIX Security Symposium (Usenix SEC '22)<br>
+To appear in Proceeding of the USENIX Security Symposium (Usenix SEC), 2022 <br>
 [Paper Here](https://www.usenix.org/conference/usenixsecurity22/presentation/chu)<br>
 *‡ denotes equal contribution*
 
