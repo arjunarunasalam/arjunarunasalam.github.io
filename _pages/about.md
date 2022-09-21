@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a 2nd year Ph.D. student in computer science at Purdue University. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/). My research interest broadly lie in the intersection of security, privacy and human computer interaction. My focus in this domain has been in understanding abuse and discovering user concerns of emerging technologies.
+I am a 3rd year Ph.D. student in computer science at Purdue University. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/). My research interest broadly lie in the intersection of security, privacy and human computer interaction. My focus in this domain has been in understanding abuse and discovering user concerns of emerging technologies.
 
 
 Publications 
