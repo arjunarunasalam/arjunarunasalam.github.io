@@ -16,8 +16,14 @@ Publications
 ------------
 ***Behind the Tube: Exploitative Monetization of Content on YouTube*** <br>
 Andrew Chu<sup>‡</sup>,  **Arjun Arunasalam**<sup>‡</sup>, Muslum Ozgur Ozmen, and Z. Berkay Celik<br>
-To appear in Proceeding of the USENIX Security Symposium (Usenix SEC), 2022 <br>
+USENIX Security Symposium (Usenix SEC), 2022 <br>
 [Paper Here](https://www.usenix.org/conference/usenixsecurity22/presentation/chu)<br>
+*‡ denotes equal contribution*
+
+***The Dark Side of E-Commerce: Dropshipping Abuse as a Business Model*** <br>
+**Arjun Arunasalam**<sup>‡</sup>, Andrew Chu<sup>‡</sup>, Muslum Ozgur Ozmen, Habiba Farrukh, and Z. Berkay Celik<br>
+To appear in Proceedings of the Network and Distributed System
+Security Symposium (NDSS) 2024 <br>
 *‡ denotes equal contribution*
 
 
