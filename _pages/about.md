@@ -17,8 +17,8 @@ My research interest focus is in human-centered security and privacy, where I ma
 Publications 
 ------------
 
-2024
-____
+#### 2024
+
 
 
 ***Understanding the Security and Privacy Implications of Online Toxic Content on Refugees*** <br>
@@ -34,8 +34,8 @@ Security Symposium (NDSS), 2024  ( to appear)<br>
 
 
 
-2022
-____
+#### 2022
+
 ***Behind the Tube: Exploitative Monetization of Content on YouTube*** <br>
 Andrew Chu<sup>‡</sup>,  **Arjun Arunasalam**<sup>‡</sup>, Muslum Ozgur Ozmen, and Z. Berkay Celik<br>
 Proceedings of the USENIX Security Symposium, 2022 <br>
