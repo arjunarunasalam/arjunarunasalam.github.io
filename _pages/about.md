@@ -9,27 +9,45 @@ redirect_from:
 ---
 
 
-I am a 3rd year Ph.D. student in computer science at Purdue University. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/). My research interest broadly lie in the intersection of security, privacy and human computer interaction. My focus in this domain has been in understanding abuse and discovering user concerns of emerging technologies.
+I am a 4th year Ph.D. student in computer science at Purdue University. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).   
+
+My research interest focus is in human-centered security and privacy, where I mainly focus on understanding abuse on online platforms such as social media and e-commerce environments, for both general users and at-risk groups.
 
 
 Publications 
 ------------
-***Behind the Tube: Exploitative Monetization of Content on YouTube*** <br>
-Andrew Chu<sup>‡</sup>,  **Arjun Arunasalam**<sup>‡</sup>, Muslum Ozgur Ozmen, and Z. Berkay Celik<br>
-USENIX Security Symposium (Usenix SEC), 2022 <br>
-[Paper Here](https://www.usenix.org/conference/usenixsecurity22/presentation/chu)<br>
+
+2024
+____
+
+
+***Understanding the Security and Privacy Implications of Online Toxic Content on Refugees*** <br>
+**Arjun Arunasalam**<sup>‡</sup>, Habiba Farrukh <sup>‡</sup>, Eliz Tekcan <sup>‡</sup>, and Z. Berkay Celik<br>
+Proceedings of the USENIX Security Symposium, 2024 (to appear). <br>
+
 
 
 ***The Dark Side of E-Commerce: Dropshipping Abuse as a Business Model*** <br>
 **Arjun Arunasalam**<sup>‡</sup>, Andrew Chu<sup>‡</sup>, Muslum Ozgur Ozmen, Habiba Farrukh, and Z. Berkay Celik<br>
-To appear in Proceedings of the Network and Distributed System
-Security Symposium (NDSS) 2024 <br>
+Proceedings of the Network and Distributed System
+Security Symposium (NDSS), 2024  ( to appear)<br>
+
+
+
+2022
+____
+***Behind the Tube: Exploitative Monetization of Content on YouTube*** <br>
+Andrew Chu<sup>‡</sup>,  **Arjun Arunasalam**<sup>‡</sup>, Muslum Ozgur Ozmen, and Z. Berkay Celik<br>
+Proceedings of the USENIX Security Symposium, 2022 <br>
+[Paper Here](https://www.usenix.org/conference/usenixsecurity22/presentation/chu)<br>
+
 *‡ denotes equal contribution*
+
 
 
 Teaching 
 --------
-Teaching Assistant **Programming With Multimedia Objects**, CS 177 (Fall 2020, Summer 2021)  <br>
+Teaching Assistant **Programming With Multimedia Objects**, CS 177 (Fall 2020, Summer 2021, Fall 2o22)  <br>
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
