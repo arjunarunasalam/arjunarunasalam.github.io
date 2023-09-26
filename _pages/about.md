@@ -28,14 +28,14 @@ Proceedings of the USENIX Security Symposium, 2024 (to appear). <br>
 ***The Dark Side of E-Commerce: Dropshipping Abuse as a Business Model*** <br>
 **Arjun Arunasalam**<sup>‡</sup>, Andrew Chu<sup>‡</sup>, Muslum Ozgur Ozmen, Habiba Farrukh, and Z. Berkay Celik<br>
 Proceedings of the Network and Distributed System
-Security Symposium (NDSS), 2024  ( to appear)<br>
+Security Symposium (NDSS), 2024  (to appear)<br>
 
 
 ### 2023
 
 
-*** Can Large Language Models Provide Security & Privacy Advice? Measuring the
-Ability of LLMs to Refute Misconceptions *** <br>
+***Can Large Language Models Provide Security & Privacy Advice? Measuring the
+Ability of LLMs to Refute Misconceptions*** <br>
 Yufan Chen<sup>‡</sup>, **Arjun Arunasalam** <sup>‡</sup>, and Z. Berkay Celik<br>
 Proceedings of the Annual Computer Security Applications Conference (ACSAC), 2023 (to ap-
 pear) <br>
