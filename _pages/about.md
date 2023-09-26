@@ -11,7 +11,7 @@ redirect_from:
 
 I am a 4th year Ph.D. student in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).   
 
-I use both qualitative and quantitative methods to study abuse on online platforms such as social media and e-commerce environments, for both general users and at-risk groups.
+My research uses both qualitative and quantitative methods to study abuse on online platforms such as social media and e-commerce environments, for both general users and at-risk groups.
 
 
 Publications 
@@ -20,17 +20,25 @@ Publications
 ### 2024
 
 
-
 ***Understanding the Security and Privacy Implications of Online Toxic Content on Refugees*** <br>
 **Arjun Arunasalam**<sup>‡</sup>, Habiba Farrukh <sup>‡</sup>, Eliz Tekcan <sup>‡</sup>, and Z. Berkay Celik<br>
 Proceedings of the USENIX Security Symposium, 2024 (to appear). <br>
-
 
 
 ***The Dark Side of E-Commerce: Dropshipping Abuse as a Business Model*** <br>
 **Arjun Arunasalam**<sup>‡</sup>, Andrew Chu<sup>‡</sup>, Muslum Ozgur Ozmen, Habiba Farrukh, and Z. Berkay Celik<br>
 Proceedings of the Network and Distributed System
 Security Symposium (NDSS), 2024  ( to appear)<br>
+
+
+### 2023
+
+
+*** Can Large Language Models Provide Security & Privacy Advice? Measuring the
+Ability of LLMs to Refute Misconceptions *** <br>
+Yufan Chen<sup>‡</sup>, **Arjun Arunasalam** <sup>‡</sup>, and Z. Berkay Celik<br>
+Proceedings of the Annual Computer Security Applications Conference (ACSAC), 2023 (to ap-
+pear) <br>
 
 
 
@@ -47,6 +55,7 @@ Proceedings of the USENIX Security Symposium, 2022 <br>
 
 Teaching 
 --------
+Teaching Assistant **Greater Issues in Security**, CS 390 (Fall '23)  <br>
 Teaching Assistant **Programming With Multimedia Objects**, CS 177 (Fall '20, Summer '21, Fall '22)  <br>
 
 <!-- 
