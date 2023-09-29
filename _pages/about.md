@@ -26,7 +26,7 @@ Proceedings of the USENIX Security Symposium, 2024 (to appear). <br>
 
 
 ***ATTention Please! An investigation of the App Tracking Transparency Permission*** <br>
-Reham Mohamed, **Arjun Arunasalam**, Habiba Farrukh, Jason Tong, Antonio Bianchi, and Z. Berkay Celik
+Reham Mohamed, **Arjun Arunasalam**, Habiba Farrukh, Jason Tong, Antonio Bianchi, and Z. Berkay Celik<br>
 Proceedings of the USENIX Security Symposium, 2024 (to appear). <br>
 
 
