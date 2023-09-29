@@ -11,7 +11,7 @@ redirect_from:
 
 I am a 4th year Ph.D. student in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).   
 
-My research uses both qualitative and quantitative methods to study abuse on online platforms such as social media and e-commerce environments, for both general users and at-risk groups.
+My research uses both qualitative (focus groups, interviews) and quantitative methods (large scale surveys) to study abuse on online platforms such as social media and e-commerce environments, for both general users and at-risk groups.
 
 
 Publications 
@@ -22,6 +22,11 @@ Publications
 
 ***Understanding the Security and Privacy Implications of Online Toxic Content on Refugees*** <br>
 **Arjun Arunasalam**<sup>‡</sup>, Habiba Farrukh <sup>‡</sup>, Eliz Tekcan <sup>‡</sup>, and Z. Berkay Celik<br>
+Proceedings of the USENIX Security Symposium, 2024 (to appear). <br>
+
+
+***ATTention Please! An investigation of the App Tracking Transparency Permission*** <br>
+Reham Mohamed, **Arjun Arunasalam**, Habiba Farrukh, Jason Tong, Antonio Bianchi, and Z. Berkay Celik
 Proceedings of the USENIX Security Symposium, 2024 (to appear). <br>
 
 
@@ -37,8 +42,7 @@ Security Symposium (NDSS), 2024  (to appear)<br>
 ***Can Large Language Models Provide Security & Privacy Advice? Measuring the
 Ability of LLMs to Refute Misconceptions*** <br>
 Yufan Chen<sup>‡</sup>, **Arjun Arunasalam** <sup>‡</sup>, and Z. Berkay Celik<br>
-Proceedings of the Annual Computer Security Applications Conference (ACSAC), 2023 (to ap-
-pear) <br>
+Proceedings of the Annual Computer Security Applications Conference (ACSAC), 2023 (to appear) <br>
 
 
 
