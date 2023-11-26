@@ -23,11 +23,13 @@ Publications
 *Understanding the Security and Privacy Implications of Online Toxic Content on Refugees*<br>
 **Arjun Arunasalam**<sup>‡</sup>, Habiba Farrukh <sup>‡</sup>, Eliz Tekcan <sup>‡</sup>, and Z. Berkay Celik<br>
 Proceedings of the **USENIX** Security Symposium, 2024 (to appear). <br>
+[Paper Here](https://www.usenix.org/system/files/sec23winter-prepub-48-arunasalam.pdf)<br>
 
 
 *ATTention Please! An investigation of the App Tracking Transparency Permission* <br>
 Reham Mohamed, **Arjun Arunasalam**, Habiba Farrukh, Jason Tong, Antonio Bianchi, and Z. Berkay Celik<br>
 Proceedings of the **USENIX** Security Symposium, 2024 (to appear). <br>
+[Paper Here](https://www.usenix.org/system/files/sec24summer-prepub-1232-mohamed.pdf)<br>
 
 
 *The Dark Side of E-Commerce: Dropshipping Abuse as a Business Model* <br>
