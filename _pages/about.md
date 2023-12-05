@@ -44,7 +44,7 @@ Security Symposium (**NDSS**), 2024  (to appear)<br>
 Ability of LLMs to Refute Misconceptions* <br>
 Yufan Chen<sup>‡</sup>, **Arjun Arunasalam** <sup>‡</sup>, and Z. Berkay Celik<br>
 Proceedings of the Annual Computer Security Applications Conference (**ACSAC**), 2023 (to appear) <br>
-
+[Paper Here](https://www.usenix.org/system/files/sec24summer-prepub-1232-mohamed.pdf)<br>
 
 
 ### 2022
@@ -52,7 +52,7 @@ Proceedings of the Annual Computer Security Applications Conference (**ACSAC**),
 *Behind the Tube: Exploitative Monetization of Content on YouTube* <br>
 Andrew Chu<sup>‡</sup>,  **Arjun Arunasalam**<sup>‡</sup>, Muslum Ozgur Ozmen, and Z. Berkay Celik<br>
 Proceedings of the **USENIX** Security Symposium, 2022 <br>
-[Paper Here](https://www.usenix.org/conference/usenixsecurity22/presentation/chu)<br>
+[Paper Here](https://dl.acm.org/doi/10.1145/3627106.3627196)<br>
 
 *‡ denotes equal contribution*
 
