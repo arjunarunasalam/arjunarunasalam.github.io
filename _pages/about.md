@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSMV5NQV3R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZSMV5NQV3R');
+</script>
 
 
 I am a 4th year Ph.D. student in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).   
