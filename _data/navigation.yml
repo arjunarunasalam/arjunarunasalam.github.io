@@ -19,7 +19,7 @@ main:
   #   url: /cv/
     
   - title: "Background"
-    url: /experience/
+    url: /background/
   
   - title: "Resume"
     url: /files/arjun-2-page-resume.pdf

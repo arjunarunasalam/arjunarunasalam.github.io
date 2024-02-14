@@ -1,5 +1,5 @@
 ---
-permalink: /experience/
+permalink: /background/
 title: "Background"
 excerpt: "Background"
 author_profile: true
@@ -22,7 +22,6 @@ Education
 **Purdue University, West Lafayette**  
 August 2020 – Present   
 Doctoral Degree in Computer Science (Ongoing)   
-
 
 
 **University of Michigan, Ann Arbor**   
