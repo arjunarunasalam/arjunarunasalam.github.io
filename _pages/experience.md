@@ -15,7 +15,23 @@ author_profile: true
   gtag('config', 'G-ZSMV5NQV3R');
 </script>
 
-Employment
+			
+Education  
+-----------
+
+**Purdue University, West Lafayette**  
+August 2020 – Present   
+Doctoral Degree in Computer Science (Ongoing)   
+
+
+
+**University of Michigan, Ann Arbor**   
+August 2016 – May 2020  
+Bachelor of Science in Engineering in Computer Engineering (Summa Cum Laude)  
+
+
+
+Prior Employment
 -----------
 **IBM Research, Yorktown, NY**  
 *Research Intern*  
@@ -24,11 +40,3 @@ May 2019 – April 2020
 - Developed RESTful APIs to ease interaction between different applications, enabling joint collaboration from multiple teams within the organisation. 
 - Worked on automated remediation for vulnerable applications with a focus on operating system vulnerabilities, leading to successful patch up of vulnerable packages. 
 - Developed User Interface for analytics project tool using JavaScript and HTML, interfacing with APIs to provide user friendly ways to view analytics results
-			
-Education  
------------
-**University of Michigan, Ann Arbor**  
- *Undergraduate Degree*  
-August 2016 – May 2020  
-
-Bachelor of Science in Engineering in Computer Engineering (Summa Cum Laude)  
