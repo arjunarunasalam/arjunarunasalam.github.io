@@ -16,7 +16,7 @@ author_profile: true
 </script>
 
 			
-I have worked as a graduated teaching assistant for 5 semesters to both computer science and non-computer science students. I was awarded the "Graduate Teaching Award" in October 2023 for my services
+I have worked as a graduated teaching assistant for 5 semesters, teaching both computer science and non-computer science students. I was awarded the "Graduate Teaching Award" in October 2023 for my services
 
 
 Classes 
@@ -30,9 +30,9 @@ Classes
 
 Guest Lectures
 --------
-** CS590 IoT & CPS Security** - Purdue University (Spring '22)  
+**CS590 IoT & CPS Security** - Purdue University (Spring '22)  
 *User Studies in Security & Privacy Research*
 
-CS390 Greater Issues in Computer Science - Purdue University (Fall '23)  
+**CS390 Greater Issues in Computer Science** - Purdue University (Fall '23)  
 *Misinformation, Disinformation and Fake News*  
 *Online Hate and Harassment*  
