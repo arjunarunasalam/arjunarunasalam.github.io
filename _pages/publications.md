@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-Publications 
-------------
+
 
 ## Conference Proceedings
 ### 2024

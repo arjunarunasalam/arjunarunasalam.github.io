@@ -26,11 +26,11 @@ My primary research goal is understanding and improving security, privacy, and t
 
 News
 -----
-*starting february 2024, I have decided to include events on my online page*
+*Starting February 2024, I have decided to include events on my online page*
 
-[Feb 2024] Presented our work on refugees at USEC and our work on dropshipping at NDSS in San Diego. 
-
-[Before Feb 2024] I did cool stuff
+*[Feb 2024]* Presented our work on toxic content agaisnt refugees at USEC 2024.  
+*[Feb 2024]* Presented our research on dropshipping at NDSS 2024 in San Diego.    
+*[Before Feb 2024]* I did cool stuff. 
 
 
 <!-- 
