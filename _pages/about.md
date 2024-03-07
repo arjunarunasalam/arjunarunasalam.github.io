@@ -18,59 +18,20 @@ redirect_from:
 </script>
 
 
-I am a 4th year Ph.D. student in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).   
+I am a 4th year Ph.D. student in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
 
-My research uses both qualitative (focus groups, interviews) and quantitative methods (large scale surveys) to study abuse on online platforms such as social media and e-commerce environments, for both general users and at-risk groups.
-
-
-Publications 
-------------
-
-### 2024
-
-
-*Understanding the Security and Privacy Implications of Online Toxic Content on Refugees*<br>
-**Arjun Arunasalam**<sup>‡</sup>, Habiba Farrukh <sup>‡</sup>, Eliz Tekcan <sup>‡</sup>, and Z. Berkay Celik<br>
-Proceedings of the **USENIX** Security Symposium, 2024 (to appear). <br>
-[Paper Here](https://www.usenix.org/system/files/sec23winter-prepub-48-arunasalam.pdf)<br>
-
-
-*ATTention Please! An investigation of the App Tracking Transparency Permission* <br>
-Reham Mohamed, **Arjun Arunasalam**, Habiba Farrukh, Jason Tong, Antonio Bianchi, and Z. Berkay Celik<br>
-Proceedings of the **USENIX** Security Symposium, 2024 (to appear). <br>
-[Paper Here](https://www.usenix.org/system/files/sec24summer-prepub-1232-mohamed.pdf)<br>
-
-
-*The Dark Side of E-Commerce: Dropshipping Abuse as a Business Model* <br>
-**Arjun Arunasalam**<sup>‡</sup>, Andrew Chu<sup>‡</sup>, Muslum Ozgur Ozmen, Habiba Farrukh, and Z. Berkay Celik<br>
-Proceedings of the Network and Distributed System
-Security Symposium (**NDSS**), 2024  (to appear)<br>
-
-
-### 2023
-
-*Can Large Language Models Provide Security & Privacy Advice? Measuring the
-Ability of LLMs to Refute Misconceptions* <br>
-Yufan Chen<sup>‡</sup>, **Arjun Arunasalam** <sup>‡</sup>, and Z. Berkay Celik<br>
-Proceedings of the Annual Computer Security Applications Conference (**ACSAC**), 2023 (to appear) <br>
-[Paper Here](https://www.usenix.org/system/files/sec24summer-prepub-1232-mohamed.pdf)<br>
-
-
-### 2022
-
-*Behind the Tube: Exploitative Monetization of Content on YouTube* <br>
-Andrew Chu<sup>‡</sup>,  **Arjun Arunasalam**<sup>‡</sup>, Muslum Ozgur Ozmen, and Z. Berkay Celik<br>
-Proceedings of the **USENIX** Security Symposium, 2022 <br>
-[Paper Here](https://dl.acm.org/doi/10.1145/3627106.3627196)<br>
-
-*‡ denotes equal contribution*
+My primary research goal is understanding and improving security, privacy, and trust on online platforms from a human-centered lens.  My research combines user-centered mixed methods, comprising qualitative methods, e.g.,  digital ethnography and focus groups, and quantitative studies, e.g., surveys and inferential statistics. These methods allow me to expose (1) how online platforms fail to deliver content users can trust, (2) emerging abuse from bad actors, and (3) impact of abuse on end users' security and privacy decisions.  
 
 
 
-Teaching 
---------
-Teaching Assistant **Greater Issues in Security**, CS 390 (Fall '23)  <br>
-Teaching Assistant **Programming With Multimedia Objects**, CS 177 (Fall '20, Summer '21, Fall '22)  <br>
+News
+-----
+*starting february 2024, I have decided to include events on my online page*
+
+[Feb 2024] Presented our work on refugees at USEC and our work on dropshipping at NDSS in San Diego. 
+
+[Before Feb 2024] I did cool stuff
+
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

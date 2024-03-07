@@ -16,12 +16,12 @@ author_profile: true
 </script>
 
 			
-I have worked as a graduated teaching assistant for 5 semesters, teaching both computer science and non-computer science students. I was awarded the "Graduate Teaching Award" in October 2023 for my services
+I have worked as a graduated teaching assistant for 5 semesters, teaching both computer science and non-computer science students. I was awarded the "Graduate Teaching Award" in October 2023 for my services.
 
 
 Classes 
 --------
-**Greater Issues in Security**, CS 390 (Fall '23)  <br>
+**Greater Issues in Security**, CS 390 (Spring '24)  <br>
 **Greater Issues in Security**, CS 390 (Fall '23)  <br>
 **Programming With Multimedia Objects**, CS 177 (Fall '20) <br> 
 **Programming With Multimedia Objects**, CS 177 (Summer '21) <br>
