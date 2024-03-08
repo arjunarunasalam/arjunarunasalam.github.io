@@ -28,9 +28,10 @@ News
 -----
 *Starting February 2024, I have decided to include events on my online page*
 
-*[Feb 2024]* Presented our work on toxic content agaisnt refugees at USEC 2024.  
-*[Feb 2024]* Presented our research on dropshipping at NDSS 2024 in San Diego.    
-*[Before Feb 2024]* I did cool stuff. 
+**[March 2024]** I received a Bravo+ employee recognition award from Purdue. Very grateful ! 
+**[Feb 2024]** Presented our work on toxic content agaisnt refugees at USEC 2024.  Thanks to our collaborators :) 
+**[Feb 2024]** Presented our research on dropshipping at NDSS 2024 in San Diego. Thanks to all collaborators for making this project happen. 
+**[Before Feb 2024]** I did cool stuff. I hope you appreciate the cool stuff I did. 
 
 
 <!-- 
