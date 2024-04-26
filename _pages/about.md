@@ -18,16 +18,17 @@ redirect_from:
 </script>
 
 
-I am a 4th year Ph.D. student in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
+I am a 4th year Ph.D. candidate in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
 
-My primary research goal is understanding and improving security, privacy, and trust on online platforms from a human-centered lens.  My research combines user-centered mixed methods, comprising qualitative methods, e.g.,  digital ethnography and focus groups, and quantitative studies, e.g., surveys and inferential statistics. These methods allow me to expose (1) how online platforms fail to deliver content users can trust, (2) emerging abuse from bad actors, and (3) impact of abuse on end users' security and privacy decisions.  
+My primary research goal is understanding and improving security, privacy, and trust on sociotechnical systems from a human-centered lens.  My research combines user-centered mixed methods, comprising qualitative methods, e.g.,  digital ethnography and focus groups, and quantitative studies, e.g., surveys and inferential statistics. These methods allow me to expose (1) how sociotechnical systems fail to deliver content users can trust, (2) emerging abuse from bad actors, and (3) impact of abuse on end users' security and privacy decisions.  
 
 
 
 News
 -----
-*Starting February 2024, I have decided to include events on my online page*
+*Beginning Feb 2024, I have decided to include events*
 
+**[April 2024]** I passed my Ph.D. preliminary examination and am now officialy a Ph.D. candidate!  Thank you to my committee, advisor and collaborators for their support.s
 **[March 2024]** I received a Bravo+ employee recognition award from Purdue. Very grateful !   
 **[Feb 2024]** Presented our work on toxic content agaisnt refugees at USEC 2024.  Thanks to our collaborators :)    
 **[Feb 2024]** Presented our research on dropshipping at NDSS 2024 in San Diego. Thanks to all collaborators for making this project happen.    
