@@ -20,7 +20,7 @@ redirect_from:
 
 I am a 4th year Ph.D. candidate in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
 
-My primary research goal is understanding and improving security, privacy, and trust on sociotechnical systems from a human-centered lens.  My research combines user-centered mixed methods, comprising qualitative methods, e.g.,  digital ethnography and focus groups, and quantitative studies, e.g., surveys and inferential statistics. These methods allow me to expose (1) how sociotechnical systems fail to deliver content users can trust, (2) emerging abuse from bad actors, and (3) impact of abuse on end users' security and privacy decisions.  
+My primary research goal is understanding and improving security, privacy, and trust on sociotechnical systems from a human-centered lens.  My research combines user-centered mixed methods, comprising qualitative methods, e.g.,  digital ethnography and focus groups, and quantitative studies, e.g., surveys and inferential statistics. Within sociotechnical systems, I primarily work in (1) characterizing platform abuse, (2) understanding security and privacy implications of abuse on end-users and (3) investigating trustworthiness of Human-AI systems. 
 
 
 
@@ -28,14 +28,15 @@ News
 -----
 *Beginning Feb 2024, I have decided to include events*
 
-**[April 2024]** I passed my Ph.D. preliminary examination and am now officialy a Ph.D. candidate!  Thank you to my committee, advisor and collaborators for their support.s
+**[April 2024]** I passed my Ph.D. preliminary examination and am now officialy a Ph.D. candidate!  Thank you to my committee, advisor and collaborators for their support.   
 **[March 2024]** I received a Bravo+ employee recognition award from Purdue. Very grateful !   
 **[Feb 2024]** Presented our work on toxic content agaisnt refugees at USEC 2024.  Thanks to our collaborators :)    
 **[Feb 2024]** Presented our research on dropshipping at NDSS 2024 in San Diego. Thanks to all collaborators for making this project happen.    
-**[Before Feb 2024]** I did cool stuff. I hope you appreciate the cool stuff I did.    
+
 
 
 <!-- 
+	**[Before Feb 2024]** I did cool stuff. I hope you appreciate the cool stuff I did.   
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
