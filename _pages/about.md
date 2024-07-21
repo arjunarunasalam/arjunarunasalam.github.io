@@ -28,6 +28,7 @@ News
 -----
 *Beginning Feb 2024, I have decided to include events*
 
+**[July 2024]** Received a USENIX'24  Registration grant! Thank you USENIX - Excited to present our work on refugee S&P in Philly.   
 **[April 2024]** I passed my Ph.D. preliminary examination and am now officialy a Ph.D. candidate!  Thank you to my committee, advisor and collaborators for their support.   
 **[March 2024]** I received a Bravo+ employee recognition award from Purdue. Very grateful !   
 **[Feb 2024]** Presented our work on toxic content agaisnt refugees at USEC 2024.  Thanks to our collaborators :)    
