@@ -37,7 +37,7 @@ Security Symposium (**NDSS**), 2024  <br>
 Ability of LLMs to Refute Misconceptions* <br>
 Yufan Chen<sup>‡</sup>, **Arjun Arunasalam** <sup>‡</sup>, and Z. Berkay Celik<br>
 Proceedings of the Annual Computer Security Applications Conference (**ACSAC**), 2023 (to appear) <br>
-[Paper Here](https://www.usenix.org/system/files/sec24summer-prepub-1232-mohamed.pdf)<br>
+[Paper Here](https://dl.acm.org/doi/10.1145/3627106.3627196)<br>
 
 
 ### 2022
@@ -48,9 +48,10 @@ Proceedings of the **USENIX** Security Symposium, 2022 <br>
 [Paper Here](https://dl.acm.org/doi/10.1145/3627106.3627196)<br>
 
 
-## Workshops
+## Workshops & Poster
 
 ### 2024
+
 *An Exploration of Online Toxic Content Against Refugees*<br>
 **Arjun Arunasalam**<sup>‡</sup>, Habiba Farrukh <sup>‡</sup>, Eliz Tekcan <sup>‡</sup>, and Z. Berkay Celik<br>
 Proceedings of the Symposium on Usable Security and Privacy (USEC) 2024. <br>
