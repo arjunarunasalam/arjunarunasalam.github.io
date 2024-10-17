@@ -11,9 +11,9 @@ title                    : "Arjun Arunasalam"
 title_separator          : "-"
 name                     : &name "Arjun Arunasalam"
 description              : &description "Security Research Assistant at Purdue University"
-url                      : https://arjunaru97.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://arjunarunasalam.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "arjunaru97/arjunaru97.github.io"
+repository               : "arjunarunasalam/arjunarunasalam.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
