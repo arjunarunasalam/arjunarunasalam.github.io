@@ -26,16 +26,16 @@ My primary research goal is understanding and improving security, privacy, and t
 
 News
 -----
-*Beginning Feb 2024, I have decided to include events*
 
-
-**[September 2024]** Serving as a program committee member for  USEC'25 (Co-Located with NDSS 2025)! Please consider submitting your work.   
-**[August 2024]** Serving as a program committee member for  USENIX'25! Please consider submitting your work.  
-**[July 2024]** Received a USENIX'24  Registration grant! Thank you USENIX - Excited to present our work on refugee S&P in Philly.   
-**[April 2024]** I passed my Ph.D. preliminary examination and am now officialy a Ph.D. candidate!  Thank you to my committee, advisor and collaborators for their support.   
-**[March 2024]** I received a Bravo+ employee recognition award from Purdue. Very grateful !   
-**[Feb 2024]** Presented our work on toxic content agaisnt refugees at USEC 2024.  Thanks to our collaborators :)    
-**[Feb 2024]** Presented our research on dropshipping at NDSS 2024 in San Diego. Thanks to all collaborators for making this project happen.    
+<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+  <p><strong>[September 2024]</strong> Serving as a program committee member for USEC'25 (Co-Located with NDSS 2025)! Please consider submitting your work.</p>
+  <p><strong>[August 2024]</strong> Serving as a program committee member for USENIX'25! Please consider submitting your work.</p>
+  <p><strong>[July 2024]</strong> Received a USENIX'24 Registration grant! Thank you USENIX - Excited to present our work on refugee S&P in Philly.</p>
+  <p><strong>[April 2024]</strong> I passed my Ph.D. preliminary examination and am now officially a Ph.D. candidate! Thank you to my committee, advisor, and collaborators for their support.</p>
+  <p><strong>[March 2024]</strong> I received a Bravo+ employee recognition award from Purdue. Very grateful!</p>
+  <p><strong>[Feb 2024]</strong> Presented our work on toxic content against refugees at USEC 2024. Thanks to our collaborators :)</p>
+  <p><strong>[Feb 2024]</strong> Presented our research on dropshipping at NDSS 2024 in San Diego. Thanks to all collaborators for making this project happen.</p>
+</div>
 
 
 
