@@ -20,7 +20,20 @@ redirect_from:
 
 I am a 5th year Ph.D. candidate in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
 
-My primary research goal is understanding and improving security, privacy, and trust on sociotechnical systems from a human-centered lens.  My research combines user-centered mixed methods, comprising qualitative methods, e.g.,  digital ethnography and focus groups, and quantitative studies, e.g., surveys and inferential statistics. Within sociotechnical systems, I primarily work in (1) characterizing platform abuse, (2) understanding security and privacy implications of abuse on end-users and (3) investigating trustworthiness of Human-AI systems. 
+<p align="center">
+    <img src="/files/myresearch.svg"
+         style="display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 200px; /* Adjust width as needed */
+                height: auto; /* Keeps aspect ratio */
+         " />
+    <br>
+</p>
+
+
+My primary research goal is understanding and improving security, privacy, and trust on sociotechnical systems from a human-centered lens. My research combines user-centered mixed methods, comprising
+qualitative methods (e.g., digital ethnography and focus groups) and quantitative studies (e.g., surveys and inferential statistics) to expose (1) how sociotechnical systems can fail to deliver content users can trust, (2) emerging abuse from bad actors and (3) impact of abuse on end users’ security and privacy decisions and perceptions
 
 
 
