@@ -25,8 +25,9 @@ My primary research goal is understanding and improving security, privacy, and t
 
 
 News
-<span style="font-size: 12px; color: #666666;">(scroll to see older news)</span>             
 -----
+<span style="font-size: 12px; color: #666666;">(scroll to see older news)</span>             
+
 
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
   <p><strong>[September 2024]</strong> Serving as a program committee member for USEC'25 (Co-Located with NDSS 2025)! Please consider submitting your work.</p>
