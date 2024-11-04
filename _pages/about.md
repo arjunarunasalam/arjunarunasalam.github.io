@@ -25,6 +25,7 @@ My primary research goal is understanding and improving security, privacy, and t
 
 
 News
+<span style="font-size: 12px; color: lightgrey;">(scroll to see older news)</span>
 -----
 
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
