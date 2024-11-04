@@ -25,7 +25,7 @@ I am a 5th year Ph.D. candidate in computer science at Purdue University, workin
          style="display: block;
                 margin-left: auto;
                 margin-right: auto;
-                width: 600px; /* Adjust width as needed */
+                width: 350px; /* Adjust width as needed */
                 height: auto; /* Keeps aspect ratio */
          " />
     <br>
@@ -33,7 +33,7 @@ I am a 5th year Ph.D. candidate in computer science at Purdue University, workin
 
 
 My primary research goal is understanding and improving security, privacy, and trust on sociotechnical systems from a human-centered lens. My research combines user-centered mixed methods, comprising
-qualitative methods (e.g., digital ethnography and focus groups) and quantitative studies (e.g., surveys and inferential statistics) to expose (1) how sociotechnical systems can fail to deliver content users can trust, (2) emerging abuse from bad actors and (3) impact of abuse on end users’ security and privacy decisions and perceptions
+qualitative methods (e.g., digital ethnography and focus groups) and quantitative studies (e.g., surveys and inferential statistics) to expose (1) how sociotechnical systems can fail to deliver content users can trust, (2) emerging abuse from bad actors and (3) impact of abuse on end users’ security and privacy decisions and perceptions.
 
 
 
