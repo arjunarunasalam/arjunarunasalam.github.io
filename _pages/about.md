@@ -25,7 +25,7 @@ I am a 5th year Ph.D. candidate in computer science at Purdue University, workin
          style="display: block;
                 margin-left: auto;
                 margin-right: auto;
-                width: 200px; /* Adjust width as needed */
+                width: 600px; /* Adjust width as needed */
                 height: auto; /* Keeps aspect ratio */
          " />
     <br>
