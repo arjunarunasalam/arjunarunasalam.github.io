@@ -21,7 +21,7 @@ redirect_from:
 I am a 5th year Ph.D. candidate in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
 
 <p align="center">
-    <img src="/files/myresearch.svg"
+    <img src="/files/myresearch.png"
          style="display: block;
                 margin-left: auto;
                 margin-right: auto;
