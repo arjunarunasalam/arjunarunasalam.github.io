@@ -23,7 +23,7 @@ My primary research goal is applying a human-centered lens to understand and imp
          style="display: block;
                 margin-left: auto;
                 margin-right: auto;
-                width: 350px; /* Adjust width as needed */
+                width: 1000px; /* Adjust width as needed */
                 height: auto; /* Keeps aspect ratio */
          " />
     <br>
