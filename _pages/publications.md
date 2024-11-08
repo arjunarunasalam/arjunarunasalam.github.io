@@ -48,9 +48,16 @@ Proceedings of the **USENIX** Security Symposium, 2022 <br>
 [Paper Here](https://dl.acm.org/doi/10.1145/3627106.3627196)<br>
 
 
-## Workshops & Poster
+## Workshops, Posters and Shorter Papers
 
 ### 2024
+
+*Expectation Conformance in Online Sound Therapy: Designing Tools for Users of Mental Wellbeing Applications*
+
+**Arjun Arunasalam**, Jason Tong, Habiba Farrukh, Muslum Ozgur Ozmen, Koustuv Saha, and Z. Berkay Celik<br>
+Companion Publication of the 2024 Computer Supported Cooperative Work and Social Computing. <br>
+[Paper Here](https://arjunarunasalam.github.io//files/beats_poster_camera_ready.pdf)<br>
+
 
 *An Exploration of Online Toxic Content Against Refugees*<br>
 **Arjun Arunasalam**<sup>‡</sup>, Habiba Farrukh <sup>‡</sup>, Eliz Tekcan <sup>‡</sup>, and Z. Berkay Celik<br>
