@@ -43,6 +43,8 @@ News
 
 
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+   <p><strong>[November 2024]</strong>  Our work on mental wellbeing content and deception got accepted to ICWSM 2025! </p>
+   <p><strong>[November 2024]</strong>  I attended the Midwest Security Workshop and gave a lightning talk </p>
   <p><strong>[September 2024]</strong> Serving as a program committee member for USEC'25 (Co-Located with NDSS 2025)! Please consider submitting your work.</p>
   <p><strong>[August 2024]</strong> Serving as a program committee member for USENIX'25! Please consider submitting your work.</p>
   <p><strong>[July 2024]</strong> Received a USENIX'24 Registration grant! Thank you USENIX - Excited to present our work on refugee S&P in Philly.</p>
