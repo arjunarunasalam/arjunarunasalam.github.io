@@ -11,7 +11,7 @@ author_profile: true
 ## Conference Proceedings
 
 ### 2025
-Deceptive Sound Therapy on Online Platforms: Do Mental Wellbeing Tracks Conform to User Expectations? 
+Deceptive Sound Therapy on Online Platforms: Do Mental Wellbeing Tracks Conform to User Expectations?<br>   
 **Arjun Arunasalam**, Jason Tong, Habiba Farrukh, Muslum Ozgur Ozmen, Koustuv Saha, and Z. Berkay Celik<br>
 Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2025 (to appear) <br>
 
@@ -59,13 +59,13 @@ Proceedings of the **USENIX** Security Symposium, 2022 <br>
 
 ### 2024
 
-*Expectation Conformance in Online Sound Therapy: Designing Tools for Users of Mental Wellbeing Applications*
+*Expectation Conformance in Online Sound Therapy: Designing Tools for Users of Mental Wellbeing Applications*<br>     
 **Arjun Arunasalam**, Jason Tong, Habiba Farrukh, Muslum Ozgur Ozmen, Koustuv Saha, and Z. Berkay Celik<br>
 Companion Publication of the 2024 Computer Supported Cooperative Work and Social Computing. <br>
 [Paper Here](https://arjunarunasalam.github.io//files/beats_poster_camera_ready.pdf)<br>
 
 
-*An Exploration of Online Toxic Content Against Refugees*<br>
+*An Exploration of Online Toxic Content Against Refugees*<br> 
 **Arjun Arunasalam**<sup>‡</sup>, Habiba Farrukh <sup>‡</sup>, Eliz Tekcan <sup>‡</sup>, and Z. Berkay Celik<br>
 Proceedings of the Symposium on Usable Security and Privacy (USEC) 2024. <br>
 [Paper Here](https://www.ndss-symposium.org/wp-content/uploads/usec2024-14-paper.pdf)<br>
