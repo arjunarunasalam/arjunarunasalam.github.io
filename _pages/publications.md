@@ -13,7 +13,7 @@ author_profile: true
 ### 2025
 *Deceptive Sound Therapy on Online Platforms: Do Mental Wellbeing Tracks Conform to User Expectations?*<br>
 **Arjun Arunasalam**, Jason Tong, Habiba Farrukh, Muslum Ozgur Ozmen, Koustuv Saha, and Z. Berkay Celik<br>
-Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2025 (to appear) <br>
+Proceedings of the International AAAI Conference on Web and Social Media (**ICWSM**), 2025 (to appear) <br>
 
 
 ### 2024
