@@ -59,7 +59,7 @@ Proceedings of the **USENIX** Security Symposium, 2022 <br>
 
 ### 2024
 
-*Expectation Conformance in Online Sound Therapy: Designing Tools for Users of Mental Wellbeing Applications*<br>     
+*Expectation Conformance in Online Sound Therapy: Designing Tools for Users of Mental Wellbeing Applications*<br>
 **Arjun Arunasalam**, Jason Tong, Habiba Farrukh, Muslum Ozgur Ozmen, Koustuv Saha, and Z. Berkay Celik<br>
 Companion Publication of the 2024 Computer Supported Cooperative Work and Social Computing. <br>
 [Paper Here](https://arjunarunasalam.github.io//files/beats_poster_camera_ready.pdf)<br>
