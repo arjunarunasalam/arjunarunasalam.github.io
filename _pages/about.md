@@ -43,6 +43,7 @@ News
 
 
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+   <p><strong>[December 2024]</strong> I gave an invited talk at UIowa as part of the <a href="https://events.uiowa.edu/90268" target="_blank">rising star event</a>!</p>
    <p><strong>[November 2024]</strong>  Our work on mental wellbeing content and deception got accepted to ICWSM 2025! </p>
    <p><strong>[November 2024]</strong>  I attended the Midwest Security Workshop and gave a lightning talk. </p>
   <p><strong>[September 2024]</strong> Serving as a program committee member for USEC'25 (Co-Located with NDSS 2025)! Please consider submitting your work.</p>
