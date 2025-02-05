@@ -14,6 +14,7 @@ author_profile: true
 *Shadowed Realities: An Investigation of UI Attacks in WebXR*<br>
 Chandrika Mukherjee, Reham Mohamed, **Arjun Arunasalam**, Habiba Farrukh, and Z. Berkay Celik<br>
 Proceedings of the **USENIX** Security Symposium, 2025 (to appear). <br>
+[Paper Here](https://arjunarunasalam.github.io//files/2025_Shadowed_Realities_watermark.pdf)<br>
 
 
 *Deceptive Sound Therapy on Online Platforms: Do Mental Wellbeing Tracks Conform to User Expectations?*<br>
