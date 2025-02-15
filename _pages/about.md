@@ -43,6 +43,7 @@ News
 
 
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+   <p><strong>[February 2025]</strong> Our work on studying online communities of threat actors was accepted into a IEEE S&P magazine special issue on cybercrime and online harm </p>
    <p><strong>[January 2025]</strong> Our paper on XR Security was accepted into USENIX 25. Congratulations to Chandrika!</p>
    <p><strong>[December 2024]</strong> I gave an invited talk at UIowa as part of the <a href="https://events.uiowa.edu/90268" target="_blank">rising star event</a>!</p>
    <p><strong>[November 2024]</strong>  Our work on mental wellbeing content and deception got accepted to ICWSM 2025! </p>

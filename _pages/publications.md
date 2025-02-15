@@ -61,6 +61,15 @@ Proceedings of the **USENIX** Security Symposium, 2022 <br>
 [Paper Here](https://dl.acm.org/doi/10.1145/3627106.3627196)<br>
 
 
+## Magazine Articles
+
+### 2025
+
+*Characterizing E-Commerce Harm by Investigating Online Communities: A Case Study with Abusive Dropshipping* <br>
+**Arjun Arunasalam** and Z. Berkay Celik<br>
+IEEE Security & Privacy, Special Issue: Cybercrime and Online Harms <br>
+
+
 ## Workshops, Posters and Shorter Papers
 
 ### 2024
