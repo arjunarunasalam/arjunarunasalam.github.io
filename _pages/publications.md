@@ -64,7 +64,7 @@ Proceedings of the **USENIX** Security Symposium, 2022 <br>
 
 ### 2025
 
-*Frontline Responders: Rethinking Indicators of Compromise for Industrial Control System Security*
+*Frontline Responders: Rethinking Indicators of Compromise for Industrial Control System Security* <br>
 Mohammed Asiri, **Arjun Arunasalam**, Neetesh Saxena and Z. Berkay Celik<br>
 Elsevier Computers & Security 2025<br>
 
