@@ -60,6 +60,14 @@ Andrew Chu<sup>‡</sup>,  **Arjun Arunasalam**<sup>‡</sup>, Muslum Ozgur Ozme
 Proceedings of the **USENIX** Security Symposium, 2022 <br>
 [Paper Here](https://dl.acm.org/doi/10.1145/3627106.3627196)<br>
 
+## Journals
+
+### 2025
+
+*Frontline Responders: Rethinking Indicators of Compromise for Industrial Control System Security*
+Mohammed Asiri, **Arjun Arunasalam**, Neetesh Saxena and Z. Berkay Celik<br>
+Elsevier Computers & Security 2025<br>
+
 
 ## Magazine Articles
 
