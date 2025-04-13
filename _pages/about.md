@@ -43,6 +43,8 @@ News
 
 
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+   <p><strong>[March 2025]</strong> Our work on user privacy concerns with conversational AI agents (done in collaboration with UC Irvine) was accepted to IEEE S&P. Congrats Mutahar</p>
+
     <p><strong>[March 2025]</strong> Our user-centered work on investigating Indicators of Compromise for Industrial Control System Security was accepted to Elsevier's Computers & Security journal. Congratulations Mohammed!</p>
 
    <p><strong>[February 2025]</strong> Our work on studying online communities of threat actors was accepted into a IEEE S&P magazine special issue on cybercrime and online harm </p>
