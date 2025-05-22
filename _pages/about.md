@@ -43,6 +43,8 @@ News
 
 
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+     <p><strong>[May 2025]</strong> I successfully defended my PhD dissertation! Very grateful to my research advisor for his support. Big thanks to my friends, family and mentors.</p>
+
    <p><strong>[April 2025]</strong> Our work on user privacy concerns with conversational AI agents (done in collaboration with UC Irvine) was accepted to IEEE S&P. Congrats Mutahar!</p>
 
     <p><strong>[March 2025]</strong> Our user-centered work on investigating Indicators of Compromise for Industrial Control System Security was accepted to Elsevier's Computers & Security journal. Congratulations Mohammed!</p>
