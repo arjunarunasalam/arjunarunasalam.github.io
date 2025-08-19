@@ -18,7 +18,9 @@ redirect_from:
 </script>
 
 
-As of Fall 2025, I am an Assistant Professor at Florida International University (Knight Foundation School of Computing and Information Sciences). I received my Ph.D. in Computer Science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
+As of Fall 2025, I am an Assistant Professor at Florida International University (Knight Foundation School of Computing and Information Sciences). 
+
+Prior to FIU, I received my Ph.D. in Computer Science at Purdue University, working in human-centered security and privacy, working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
 
 
 
