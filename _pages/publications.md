@@ -14,14 +14,14 @@ author_profile: true
 
 *Understanding Users’ Security and Privacy Concerns and Attitudes Towards Conversational AI Platforms*<br>
 Mutahar Ali, **Arjun Arunasalam**, and Habiba Farrukh<br>
-Proceedings of the IEEE Symposium on Security and Privacy (Oakland), 2025 (to appear). <br>
+Proceedings of the IEEE Symposium on Security and Privacy (Oakland), 2025. <br>
 [Paper Here](https://arxiv.org/pdf/2504.06552)<br>
 
 
 
 *Shadowed Realities: An Investigation of UI Attacks in WebXR*<br>
 Chandrika Mukherjee, Reham Mohamed, **Arjun Arunasalam**, Habiba Farrukh, and Z. Berkay Celik<br>
-Proceedings of the **USENIX** Security Symposium, 2025 (to appear). <br>
+Proceedings of the **USENIX** Security Symposium, 2025. <br>
 [Paper Here](https://arjunarunasalam.github.io//files/2025_Shadowed_Realities_watermark.pdf)<br>
 
 

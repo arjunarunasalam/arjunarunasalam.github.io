@@ -18,7 +18,9 @@ redirect_from:
 </script>
 
 
-I am a 5th year Ph.D. candidate in computer science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
+As of Fall 2025, I am an Assistant Professor at Florida International University (Knight Foundation School of Computing and Information Sciences). I received my Ph.D. in Computer Science at Purdue University, working in human-centered security and privacy. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
+
+
 
 <p align="center">
     <img src="/files/myresearch.png"
@@ -36,14 +38,15 @@ My primary research goal is understanding and improving security, privacy, and t
 qualitative methods (e.g., digital ethnography and focus groups) and quantitative studies (e.g., surveys and inferential statistics) to expose (1) how sociotechnical systems can fail to deliver content users can trust, (2) emerging abuse from bad actors and (3) impact of abuse on end users’ security and privacy decisions and perceptions.
 
 
-
 News
 -----
 <span style="font-size: 12px; color: #666666;">(scroll to see older news)</span>             
 
 
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+       <p><strong>[August 2025]</strong> I just joined FIU as an assistant professor.</p>
      <p><strong>[May 2025]</strong> I successfully defended my PhD dissertation! Very grateful to my research advisor for his support. Big thanks to my friends, family and mentors.</p>
+
 
    <p><strong>[April 2025]</strong> Our work on user privacy concerns with conversational AI agents (done in collaboration with UC Irvine) was accepted to IEEE S&P. Congrats Mutahar!</p>
 
