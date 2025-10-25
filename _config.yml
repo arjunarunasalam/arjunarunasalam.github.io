@@ -77,14 +77,6 @@ analytics:
   google:
     tracking_id          :
 
-scholar:
-  style: apa
-  source: _bibliography
-  bibliography: references.bib
-  bibliography_template: _includes/bib_entry
-  sort_by: year,month
-  order: descending
-  
 
 # Site Author
 author:
@@ -274,7 +266,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-scholar
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
