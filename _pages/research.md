@@ -15,36 +15,15 @@ author_profile: true
 </script>
 
 
+We study how security, privacy, and trust emerge—and break down—in sociotechnical systems.
 
-My primary research goal is applying a human-centered lens to understand and improve security, privacy, and trust for end users on sociotechnical systems. I currently work in three main research thrusts. 
+## 1. Trustworthiness in Human–AI Interfaces
 
-<p align="center">
-    <img src="/files/researchthrusts.png"
-         style="display: block;
-                margin-left: auto;
-                margin-right: auto;
-                width: 1000px; /* Adjust width as needed */
-                height: auto; /* Keeps aspect ratio */
-         " />
-    <br>
-</p>
+We examine when and why users can trust AI systems that assist, advise, or act on their behalf. This includes auditing LLMs as sources of security and privacy advice, evaluating whether the guidance they provide is accurate and safe [ACSAC 2023]. We also develop audit and measurement tools to identify how interface design choices can subtly influence LLM-based web agents decisions with regards to security and privacy [IEEE S&P 2026]. Additionally, we investigate how implicit values surface in AI-generated actions during routine tasks (for example, budgeting or communication tone), revealing where AI systems align with or diverge from human expectations [EMNLP 2025, Main].
+
+## 2. Monetization Abuse in Platform Ecosystems
+We investigate how malicious actors exploit sociotechnical platforms such as content creation systems [USENIX 2022] and e-commerce marketplaces  [NDSS 2024, IEEE S&P Magazine 2025] to generate profit while harming legitimate users. Using digital ethnography and mixed-methods analysis, we uncover the tools, tactics, and incentive structures that enable abusive behavior, ranging from exploitative content monetization to deceptive business models that target unsuspecting users. 
 
 
-
-Trustworthiness of Human-AI Interfaces 
------------
-I evaluate the trustworthiness of human-AI interfaces -- whether these interfaces generate content, (e.g., respond to user queries, make decisions) that end users can trust. End users consume security and privacy advice from various online resources (e.g., querying search engines, reading news articles and online forums). Additionally, the advent of end-user facing LLMs has resulted in these users leveraging LLMs for different types of advice (e.g., financial, personal life). 
-
-Motivated by this, I perform the first study to evaluate whether end-user facing language models are able to provide security and privacy advice. To do this, I curate a dataset of security and privacy misconceptions, evaluate two popular chat language models to expose their non-negligible error rates and how they harm users by pointing them towards false sources.  
-
-
-Investigating Monetization Exploits of Bad Actors 
------------
-I characterize the tactics and tools leveraged by bad actors to generate revenue by exploiting sociotechnical systems such as content creation and e-commerce platforms. For this, I draw on digital ethnography, a research method that is used to study people or communities who interact and communicate in digital environments such as online forums. First, I perform the first work to expose exploitative content monetization on YouTube, demonstrating the malicious behavior enacted by content creators and third-party service providers that harm content creation stakeholders (e.g., benign creators, viewers) [USENIX 22]. Second, I leverage a mixed-methods approach to study how abusive e-commerce vendors exploit and harm other sellers via an abusive business model [NDSS'24].
-
-
-Identifying Impact of Abuse on End Users 
------------
-
-I explored how two abusive activities, toxic content and dark patterns, impact end users security and
-privacy decisions and perceptions. Here, I perform user-centered data collection, engaging with human participants consisting of lay users and vulnerable populations. First, I used a mixed-methods approach to gather the perspectives of 68 refugees and liaisons who work closely with them to characterize the impact of toxic content targeted at the refugee community. Later, my collaborators and I designed a large-scale survey to understand the perception and influence of dark patterns in App Tracking Transparency (ATT) permission prompts.
+## 3. Impact of Abuse on End Users
+We study how toxic content [USENIX 2024], manipulative dark patterns [USENIX 2024, USENIX 2025], and online scams [IEEE S&P 2026] impact the security and privacy decisions of different user groups, including both everyday users and vulnerable communities. Through user-centered data collection and qualitative inquiry, we examine how experiences, risk exposure, and resource constraints influence whether protective mechanisms are usable, trusted, or feasible.  

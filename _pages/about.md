@@ -18,10 +18,7 @@ redirect_from:
 </script>
 
 
-I am an Assistant Professor at Florida International University (Knight Foundation School of Computing and Information Sciences). I joined in Fall 2025.  
-
-Prior to FIU, I received my Ph.D. in Computer Science at Purdue University, working in human-centered security and privacy, working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
-
+I am an Assistant Professor at Florida International University (Knight Foundation School of Computing and Information Sciences). My research goal is understanding and improving human-centered security, privacy, and trust in sociotechnical systems. 
 
 
 <p align="center">
@@ -35,8 +32,16 @@ Prior to FIU, I received my Ph.D. in Computer Science at Purdue University, work
     <br>
 </p>
 
+I received my Ph.D. in Computer Science at Purdue University, working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html). Before that I received my Bachelors in Computer Engineering from the University of Michigan, Ann Arbor.
 
-My primary research goal is understanding and improving security, privacy, and trust on sociotechnical systems from a human-centered lens. My research combines user-centered mixed methods, comprising qualitative methods (e.g., digital ethnography and focus groups) and quantitative studies (e.g., surveys and inferential statistics) to expose (1) how sociotechnical systems can fail to deliver content users can trust, (2) emerging abuse from bad actors and (3) impact of abuse on end users’ security and privacy decisions and perceptions.
+<span style="color:#c00; font-weight:600">
+Now recruiting <u>two PhD students</u> for Fall 2026 at FIU (Computer Science).    
+We study human-centered security & privacy— with areas of interest in (1) human-AI interfaces, (2) XR and (3) online cybercrime.  Prior research experience, especially in applied AI and user-centered methodologies, is highly valued.    
+</span>
+
+<span style="color:#c00; font-weight:600">
+Please email aarunasa [at] fiu [dot] edu with the subject “Interest in fall 2026 phd position at FIU”, to express your interest and summarize your research experience. Please include a CV in your email.   
+</span>
 
 
 News
