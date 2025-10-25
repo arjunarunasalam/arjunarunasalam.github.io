@@ -1,0 +1,5 @@
+<div class="pub-entry">
+  <strong>{{ reference.title }}</strong><br/>
+  {{ reference.author }}<br/>
+  <em>{{ reference.booktitle | default: reference.journal }}</em>{% if reference.year %}, {{ reference.year }}{% endif %}
+</div>

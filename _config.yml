@@ -77,11 +77,19 @@ analytics:
   google:
     tracking_id          :
 
+scholar:
+  style: apa
+  source: _bibliography
+  bibliography: references.bib
+  bibliography_template: _includes/bib_entry
+  sort_by: year,month
+  order: descending
+  
 
 # Site Author
 author:
   name             : "Arjun Arunasalam"
-  avatar           : "central-park-headshot.jpg"
+  avatar           : "arjun_headshot.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "West Lafayette"
   employer         :
@@ -102,7 +110,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/arjun-arunasalam-93701414a/
+  linkedin         : arjun-arunasalam-93701414a/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -266,6 +274,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-scholar
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

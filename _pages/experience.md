@@ -20,8 +20,8 @@ Education
 -----------
 
 **Purdue University, West Lafayette**  
-August 2020 – Present   
-Doctoral Degree in Computer Science (Ongoing)   
+August 2020 – August 2025   
+Doctoral Degree in Computer Science 
 
 
 **University of Michigan, Ann Arbor**   

@@ -16,16 +16,18 @@ author_profile: true
 </script>
 
 			
-I have worked as a graduated teaching assistant for 5 semesters, teaching both computer science and non-computer science students. I was awarded the "Graduate Teaching Award" in October 2023 for my services.
-
-
-Classes 
+As Lead Instructor
 --------
-**Greater Issues in Security**, CS 390 (Spring '24)  <br>
-**Greater Issues in Security**, CS 390 (Fall '23)  <br>
-**Programming With Multimedia Objects**, CS 177 (Fall '20) <br> 
-**Programming With Multimedia Objects**, CS 177 (Summer '21) <br>
-**Programming With Multimedia Objects**, CS 177 (Fall '22)  <br>
+**Technology in the Global Arena** -- Florida International University, CGS3095 (Fall '25)  <br>
+
+
+As Teaching Assistant 
+--------
+**Greater Issues in Security** -- Purdue University, CS 390 (Spring '24)  <br>
+**Greater Issues in Security** -- Purdue University, CS 390 (Fall '23)  <br>
+**Programming With Multimedia Objects** -- Purdue University, CS 177 (Fall '20) <br> 
+**Programming With Multimedia Objects** -- Purdue University, CS 177 (Summer '21) <br>
+**Programming With Multimedia Objects** -- Purdue University, CS 177 (Fall '22)  <br>
 
 
 Guest Lectures

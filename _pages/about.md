@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
 
-As of Fall 2025, I am an Assistant Professor at Florida International University (Knight Foundation School of Computing and Information Sciences). 
+I am an Assistant Professor at Florida International University (Knight Foundation School of Computing and Information Sciences). I joined in Fall 2025.  
 
 Prior to FIU, I received my Ph.D. in Computer Science at Purdue University, working in human-centered security and privacy, working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
 
@@ -36,8 +36,7 @@ Prior to FIU, I received my Ph.D. in Computer Science at Purdue University, work
 </p>
 
 
-My primary research goal is understanding and improving security, privacy, and trust on sociotechnical systems from a human-centered lens. My research combines user-centered mixed methods, comprising
-qualitative methods (e.g., digital ethnography and focus groups) and quantitative studies (e.g., surveys and inferential statistics) to expose (1) how sociotechnical systems can fail to deliver content users can trust, (2) emerging abuse from bad actors and (3) impact of abuse on end users’ security and privacy decisions and perceptions.
+My primary research goal is understanding and improving security, privacy, and trust on sociotechnical systems from a human-centered lens. My research combines user-centered mixed methods, comprising qualitative methods (e.g., digital ethnography and focus groups) and quantitative studies (e.g., surveys and inferential statistics) to expose (1) how sociotechnical systems can fail to deliver content users can trust, (2) emerging abuse from bad actors and (3) impact of abuse on end users’ security and privacy decisions and perceptions.
 
 
 News
@@ -46,7 +45,9 @@ News
 
 
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
-       <p><strong>[August 2025]</strong> I just joined FIU as an assistant professor.</p>
+  <p><strong>[October 2025]</strong> Two papers accepted to IEEE S&P Oakland 2026 - Congratulations Katie, Brandon and Devin! </p>
+      <p><strong>[September 2025]</strong> Our work on LLMs and Values was accepted to the main findings of EMNLP 2025.</p>
+      <p><strong>[August 2025]</strong> I just joined FIU as an assistant professor.</p>
      <p><strong>[May 2025]</strong> I successfully defended my PhD dissertation! Very grateful to my research advisor for his support. Big thanks to my friends, family and mentors.</p>
 
 
@@ -57,7 +58,11 @@ News
    <p><strong>[February 2025]</strong> Our work on studying online communities of threat actors was accepted into a IEEE S&P magazine special issue on cybercrime and online harm </p>
    <p><strong>[January 2025]</strong> Our paper on XR Security was accepted into USENIX 25. Congratulations to Chandrika!</p>
    <p><strong>[December 2024]</strong> I gave an invited talk at UIowa as part of the <a href="https://events.uiowa.edu/90268" target="_blank">rising star event</a>!</p>
-   <p><strong>[November 2024]</strong>  Our work on mental wellbeing content and deception got accepted to ICWSM 2025! </p>
+  
+</div>
+
+
+<!--  <p><strong>[November 2024]</strong>  Our work on mental wellbeing content and deception got accepted to ICWSM 2025! </p>
    <p><strong>[November 2024]</strong>  I attended the Midwest Security Workshop and gave a lightning talk. </p>
   <p><strong>[September 2024]</strong> Serving as a program committee member for USEC'25 (Co-Located with NDSS 2025)! Please consider submitting your work.</p>
   <p><strong>[August 2024]</strong> Serving as a program committee member for USENIX'25! Please consider submitting your work.</p>
@@ -65,11 +70,7 @@ News
   <p><strong>[April 2024]</strong> I passed my Ph.D. preliminary examination and am now officially a Ph.D. candidate! Thank you to my committee, advisor, and collaborators for their support.</p>
   <p><strong>[March 2024]</strong> I received a Bravo+ employee recognition award from Purdue. Very grateful!</p>
   <p><strong>[Feb 2024]</strong> Presented our work on toxic content against refugees at USEC 2024. Thanks to our collaborators :)</p>
-  <p><strong>[Feb 2024]</strong> Presented our research on dropshipping at NDSS 2024 in San Diego. Thanks to all collaborators for making this project happen.</p>
-</div>
-
-
-
+  <p><strong>[Feb 2024]</strong> Presented our research on dropshipping at NDSS 2024 in San Diego. Thanks to all collaborators for making this project happen.</p> -->
 <!-- 
 	**[Before Feb 2024]** I did cool stuff. I hope you appreciate the cool stuff I did.   
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
