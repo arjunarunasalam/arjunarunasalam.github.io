@@ -34,6 +34,8 @@ I am an Assistant Professor at Florida International University (Knight Foundati
 
 I received my Ph.D. in Computer Science at Purdue University, working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html). Before that I received my Bachelors in Computer Engineering from the University of Michigan, Ann Arbor.
 
+
+<!-- 
 <span style="color:#c00; font-weight:600">
 Now recruiting <u>two PhD students</u> for Fall 2026 at FIU (Computer Science).    
 We study human-centered security & privacy— with areas of interest in (1) human-AI interfaces, (2) XR and (3) online cybercrime.  Prior research experience, especially in applied AI and user-centered methodologies, is highly valued.    
@@ -42,7 +44,7 @@ We study human-centered security & privacy— with areas of interest in (1) huma
 <span style="color:#c00; font-weight:600">
 Please email aarunasa [at] fiu [dot] edu with the subject “Interest in fall 2026 phd position at FIU”, to express your interest and summarize your research experience. Please include a CV in your email.   
 </span>
-
+ -->
 
 News
 -----
