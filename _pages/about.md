@@ -51,8 +51,10 @@ News
 <span style="font-size: 12px; color: #666666;">(scroll to see older news)</span>             
 
 
-<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
-     <p><strong>[May 2026]</strong> Our work on US military members and the mobile apps was accepted to PETS 2026. Congrautlations Joshua! </p>
+<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;"> 
+     <p><strong>[July 2026]</strong> WIRED wrote a piece on our PETS 2026 paper  -  <a href="https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/" target="_blank">(Link to article)</a>! </p>
+   <p><strong>[July 2026]</strong> Our PETS 2026 paper on US military members' mobile apps won the Best Student Paper Award at PETS. Congrautlations Joshua! </p>
+     <p><strong>[May 2026]</strong> Our work on US military members and mobile apps targeting them was accepted to PETS 2026. Congrautlations Joshua! </p>
    <p><strong>[May 2026]</strong> Our work on students and scams was accepted to SOUPS 2026. Congrautlations Alexandra!  </p>
    <p><strong>[October 2025]</strong> Two papers accepted to IEEE S&P Oakland 2026 - Congratulations Katie, Brandon and Devin! </p>
   <p><strong>[October 2025]</strong> Two papers accepted to IEEE S&P Oakland 2026 - Congratulations Katie, Brandon and Devin! </p>
