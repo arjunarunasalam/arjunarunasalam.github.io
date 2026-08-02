@@ -52,6 +52,9 @@ News
 
 
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+     <p><strong>[May 2026]</strong> Our work on US military members and the mobile apps was accepted to PETS 2026. Congrautlations Joshua! </p>
+   <p><strong>[May 2026]</strong> Our work on students and scams was accepted to SOUPS 2026. Congrautlations Alexandra!  </p>
+   <p><strong>[October 2025]</strong> Two papers accepted to IEEE S&P Oakland 2026 - Congratulations Katie, Brandon and Devin! </p>
   <p><strong>[October 2025]</strong> Two papers accepted to IEEE S&P Oakland 2026 - Congratulations Katie, Brandon and Devin! </p>
       <p><strong>[September 2025]</strong> Our work on LLMs and Values was accepted to the main findings of EMNLP 2025.</p>
       <p><strong>[August 2025]</strong> I just joined FIU as an assistant professor.</p>
@@ -60,15 +63,15 @@ News
 
    <p><strong>[April 2025]</strong> Our work on user privacy concerns with conversational AI agents (done in collaboration with UC Irvine) was accepted to IEEE S&P. Congrats Mutahar!</p>
 
-    <p><strong>[March 2025]</strong> Our user-centered work on investigating Indicators of Compromise for Industrial Control System Security was accepted to Elsevier's Computers & Security journal. Congratulations Mohammed!</p>
-
-   <p><strong>[February 2025]</strong> Our work on studying online communities of threat actors was accepted into a IEEE S&P magazine special issue on cybercrime and online harm </p>
-   <p><strong>[January 2025]</strong> Our paper on XR Security was accepted into USENIX 25. Congratulations to Chandrika!</p>
-   <p><strong>[December 2024]</strong> I gave an invited talk at UIowa as part of the <a href="https://events.uiowa.edu/90268" target="_blank">rising star event</a>!</p>
   
 </div>
 
 
+<!--     <p><strong>[March 2025]</strong> Our user-centered work on investigating Indicators of Compromise for Industrial Control System Security was accepted to Elsevier's Computers & Security journal. Congratulations Mohammed!</p>
+
+   <p><strong>[February 2025]</strong> Our work on studying online communities of threat actors was accepted into a IEEE S&P magazine special issue on cybercrime and online harm </p>
+   <p><strong>[January 2025]</strong> Our paper on XR Security was accepted into USENIX 25. Congratulations to Chandrika!</p>
+   <p><strong>[December 2024]</strong> I gave an invited talk at UIowa as part of the <a href="https://events.uiowa.edu/90268" target="_blank">rising star event</a>!</p> -->
 <!--  <p><strong>[November 2024]</strong>  Our work on mental wellbeing content and deception got accepted to ICWSM 2025! </p>
    <p><strong>[November 2024]</strong>  I attended the Midwest Security Workshop and gave a lightning talk. </p>
   <p><strong>[September 2024]</strong> Serving as a program committee member for USEC'25 (Co-Located with NDSS 2025)! Please consider submitting your work.</p>
